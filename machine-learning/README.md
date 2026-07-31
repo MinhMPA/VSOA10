@@ -1,4 +1,6 @@
-# Hands-on exercises
+# Materials from the "Machine Learning" lecture block by Leander Thiele
+
+## Hands-on exercises
 
 [Results slide deck](https://docs.google.com/presentation/d/1-ELCqFqRddP2RUkA2Md5Q_LCml_T1PWkI4yjV95T5_M/edit?usp=sharing)
 
@@ -15,6 +17,6 @@ Workflow to work with `.ipynb` notebooks:
 - [Inference of cosmological parameters with Simulation-Based Inference (SBI)](cmb_sbi.ipynb)
 
 
-# Group Work: Deep Learning Tricks
+## Group Work: Deep Learning Tricks
 
 [Working slide deck](https://docs.google.com/presentation/d/16T2tbK0R-mt2vi09e2wWHr6ZI3J8wy5EJsuWLluEwqU/edit?usp=sharing)
